@@ -25,7 +25,7 @@ More about me...
 const me = {
     name : 'Behrad',
     family : 'Hashemi',
-    ability : [html, css, js, react, git]
+    ability : [html, css, js, react & redux, git]
 }
 
 // Although I usually like web developing
