@@ -18,7 +18,7 @@ const me = {
 
 ---
 <!--START_SECTION:waka-->
-[![🕑︎](http://img.shields.io/badge/Code%20Time-2%2C178%20hrs%2041%20mins-blue)]
+![🕑︎](http://img.shields.io/badge/Code%20Time-2%2C178%20hrs%2041%20mins-blue)
 <br>
 [![](https://visitcount.itsvg.in/api?id=BehradHashemi&icon=0&color=0)](https://visitcount.itsvg.in)
 
