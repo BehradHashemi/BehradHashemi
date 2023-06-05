@@ -4,7 +4,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```JS
 const me = {
@@ -24,7 +24,7 @@ const me = {
 
 [![](https://visitcount.itsvg.in/api?id=BehradHashemi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-📊 **This Week** 
+# 📊This Week :
 
 ```text
 🕑︎ Time Zone: Asia/Iran
