@@ -6,10 +6,11 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
+```JS
 const me = {
-    pronouns: "He" | "Him",
-    code: ["HTML", "CSS", "JS", "Botstrap", "SCSS", "React"]
+    FirstName: "Behrad",
+    LastName: "Hashemi",
+    Ability: ["HTML", "CSS", "JS", "Botstrap", "SCSS", "React"]
 };
 ```
 
@@ -19,37 +20,10 @@ const me = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C178%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1365-blue)
+![Profile Views](https://visitcount.itsvg.in/api?id=BehradHashemi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   503 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Tuesday                  529 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Wednesday                702 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Thursday                 539 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Friday                   493 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Saturday                 620 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Sunday                   862 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week** 
 
 ```text
 🕑︎ Time Zone: Asia/Iran
-
-💬 Programming Languages: 
-💻 Operating System: 
-Windows                      0 secs              █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-HTML
-CSS
-JavaScript           
-SCSS
 ```
