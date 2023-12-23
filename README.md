@@ -1,6 +1,4 @@
-
-
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```JS
 const BehradHashemi = {     
@@ -10,8 +8,8 @@ const BehradHashemi = {
     myStack: {             
         frontEnd: {             
           frameworks:{
-js:[React.js" ,"Next.js"],
- css:["Bootstrap", "Scss", "Tailwind", "UIKit"],                   
+              js:[React.js" ,"Next.js"],
+              css:["Bootstrap", "Scss", "Tailwind", "UIKit"],                   
         },         
         backEnd: {             
           web: ["I'm not back-end developer 😁😁😁", "My friends call me a bug fixer 😂"],         
