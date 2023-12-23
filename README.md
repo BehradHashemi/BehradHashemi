@@ -1,7 +1,8 @@
+<center>
 BehradHashemi
 <br/>
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" align="center"/>
-
+</center>
 ```JS
 const BehradHashemi = {     
     pronouns: "He" | "Him",     
