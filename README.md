@@ -13,7 +13,7 @@ const BehradHashemi = {
     myStack: {             
         frontEnd: {             
           frameworks:{
-              js:[React.js" ,"Next.js"],
+              js:["React.js" ,"Next.js"],
               css:["Bootstrap", "Scss", "Tailwind", "UIKit"],                   
         },         
         backEnd: {             
