@@ -18,8 +18,7 @@ const BehradHashemi = {
         },         
         backEnd: {             
           web: ["I'm not back-end developer 😁😁😁", "My friends call me a bug fixer 😂"],         
-        },         
-        devOps: ["Docker🐳"],               
+        },           
    },    
    currentFocus: "React.js Web Development",     
    funFact: "Bug's and Errors are my best friends" 
