@@ -13,11 +13,11 @@ const BehradHashemi = {
     myStack: {             
         frontEnd: {             
           frameworks:{
-              js:["React.js" ,"Next.js"],
-              css:["Bootstrap", "Scss", "Tailwind", "UIKit"],                   
+              js:["React.js" ,"Next.js" ,"React => coming 🔜"],
+              css:["Bootstrap", "SCSS", "Tailwind"],                   
         },         
         backEnd: {             
-          web: ["I'm not back-end developer 😁😁😁", "My friends call me a bug fixer 😂"],         
+          web: ["I'm not back-end developer 😁😁😁", "My friends call me a bug fixer => https://github.com/Mohammadsdq 😂"],         
         },           
    },    
    currentFocus: "React.js Web Development",     
